@@ -1,0 +1,16 @@
+.navbar{
+    background-color: #1b1b1b;
+    display: flex;
+    justify-content: end;
+    align-content: center;
+}
+
+.navbar__link{
+    color: #fff;
+    text-decoration: none;
+    padding: 1em;
+}
+
+.navbar__link:hover{
+    color: #9e61d6;
+}

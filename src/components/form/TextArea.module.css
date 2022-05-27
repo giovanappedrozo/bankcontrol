@@ -1,0 +1,12 @@
+.formControl textarea{
+    margin-top: 1em;
+    padding: 1em;
+    border: none;
+    margin-bottom: 1em;
+    width: 94%;
+    font-family: inherit;
+}
+
+.formControl label{
+    font-weight: 700;
+}

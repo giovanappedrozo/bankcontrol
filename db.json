@@ -1,0 +1,40 @@
+{
+  "expenses": [],
+  "returns": [],
+  "categoriesExpenses": [
+    {
+      "id": 1,
+      "name": "Alimentação"
+    },
+    {
+      "id": 2,
+      "name": "Lazer"
+    },
+    {
+      "id": 3,
+      "name": "Despesas"
+    },
+    {
+      "id": 4,
+      "name": "Empréstimo"
+    }
+  ],
+  "categoriesReturns": [
+    {
+      "id": 1,
+      "name": "VR"
+    },
+    {
+      "id": 2,
+      "name": "VT"
+    },
+    {
+      "id": 3,
+      "name": "Salário"
+    },
+    {
+      "id": 4,
+      "name": "Extra"
+    }
+  ]
+}

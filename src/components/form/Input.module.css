@@ -1,0 +1,20 @@
+.formControl{
+    display: flex;
+    flex-direction: column;
+}
+
+.formControl input{
+    padding: 1em;
+    border: none;
+    margin-bottom: 1em;
+    font-family: inherit;
+}
+
+.formControl input::placeholder{
+    color: #bebdbd;
+}
+
+.formControl label{
+    margin-bottom: .6em;
+    font-weight: 700;
+}

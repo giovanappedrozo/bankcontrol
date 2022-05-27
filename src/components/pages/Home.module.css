@@ -1,0 +1,40 @@
+.home__container{
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.p{
+    color: #b1b1b1;
+    padding: 1em;
+    font-size: 1.3em;
+    margin-bottom: 1.5em;
+}
+
+.h1{
+    font-size: 2.5em;
+}
+
+.h1::after{
+    content: "|";
+    animation: pisca .7s infinite;
+}
+
+.nome{
+    background-color: #1b1b1b;
+    color: #9e61d6;
+}
+
+.img__savings{
+    margin-top: 50px;
+    width: 400px;
+}
+
+@keyframes pisca{
+    0%, 100%{
+        opacity: 1;
+    }
+    50%{
+        opacity: 0;
+    }
+}
